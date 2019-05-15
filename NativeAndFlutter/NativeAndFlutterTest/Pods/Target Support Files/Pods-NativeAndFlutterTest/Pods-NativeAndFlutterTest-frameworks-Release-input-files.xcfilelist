@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-NativeAndFlutterTest/Pods-NativeAndFlutterTest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${PODS_ROOT}/../../myflutter/.ios/Flutter/engine/Flutter.framework
+${BUILT_PRODUCTS_DIR}/FlutterPluginRegistrant/FlutterPluginRegistrant.framework
